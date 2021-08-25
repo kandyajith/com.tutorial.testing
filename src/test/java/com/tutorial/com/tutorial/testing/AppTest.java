@@ -18,5 +18,6 @@ public class AppTest
         assertTrue( true );
         //comment
         //comment
+        //comment
     }
 }
